@@ -1,0 +1,10 @@
+.Games{
+    background-image: linear-gradient(orange , red);
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction : column
+}
+P{
+   font-family: "ink free";
+    color:"white"
+}

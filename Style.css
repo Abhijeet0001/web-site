@@ -1,0 +1,23 @@
+
+body{
+    background-color: goldenrod;
+}
+H1{
+    color:red;
+}
+h2{
+    color :blue
+}
+.Games{
+    background-image: linear-gradient(red, blue);
+    border: solid;
+    display: flex;
+   justify-content: space-around;
+   flex-direction:  column;
+   align-items: stretch;
+}
+.image{
+    display:flex;
+    justify-content: flex-end;
+   align-items: baseline;
+}
